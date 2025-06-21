@@ -2,9 +2,12 @@
 layout: default
 title: Home
 ---
+This webpage is a wrapper around the main public repo avalable at [https://github.com/SkatAI/Epita_SP25_NoSQL/](https://github.com/SkatAI/Epita_SP25_NoSQL/)
+
 # Advanced Database: NoSQL
 
 Course on advanced databases Epita Spring 2025.
+
 
 We focus on MongoDB over 3 sessions and dedicate a session to Neo4j and one to Weaviate.
 Last session is dedicated to ahnds on practice on one of the three databases.
@@ -20,7 +23,6 @@ Course content consists of
 - The [data]({{site.baseurl}}/data) folder holds the Paris trees and gardens datasets full size and sampled.
 - The [reading]({{site.baseurl}}/reading) folder has a few articles on when to use SQL vs NoSQL
 
-The main publi repo for the course content is [https://github.com/SkatAI/Epita_SP25_NoSQL/](https://github.com/SkatAI/Epita_SP25_NoSQL/)
 
 This is a hands on course that focuses on the application of such databases. When to choose NoSQl over SQL, MongoDB over Neo4j etc etc.
 
