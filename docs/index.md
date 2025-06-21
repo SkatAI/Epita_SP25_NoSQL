@@ -4,6 +4,8 @@ Course on advanced databases Epita Spring 2025.
 
 We focus on  MongoDB over 4 sessions and dedicate a session to Neo4j and one to Weaviate
 
+local folder [local](./)
+
 Course content consists of
 - markdown files, available in the [/docs](/docs) folder
 - some powerpoint slides in [/docs/slides](/docs/slides), converted from google slides
