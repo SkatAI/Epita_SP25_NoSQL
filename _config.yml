@@ -2,3 +2,9 @@ title: NoSQl Advanced Databases - Epita - Spring 25
 description: Course on advanced databases Epita Spring 2025, Mongodb, Neo4j and Weaviate.
 baseurl: "/Epita_SP25_NoSQL" # important for repo-based sites
 url: "https://skatai.github.io"
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
